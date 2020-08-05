@@ -5,7 +5,7 @@ import java.util.Map;
 public class GitDemo {
     static {
         System.out.println("121321");
-        System.out.println("测试分支1");
+        System.out.println("测试分支2");
     }
     public static void main(String[] args) {
         System.out.println(GitDemo.getTest());
